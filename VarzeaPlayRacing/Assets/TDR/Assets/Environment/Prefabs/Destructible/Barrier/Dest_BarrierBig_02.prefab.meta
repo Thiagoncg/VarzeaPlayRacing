@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: defc82f7ecfeabe42b8df6e53ed28aab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Destructible/Barrier/Dest_BarrierBig_02.prefab
+  uploadId: 706980

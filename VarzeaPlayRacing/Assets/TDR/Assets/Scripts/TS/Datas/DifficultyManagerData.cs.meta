@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a9530163f45774fe58f21fb584c87e15
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/TS/Datas/DifficultyManagerData.cs
+  uploadId: 706980

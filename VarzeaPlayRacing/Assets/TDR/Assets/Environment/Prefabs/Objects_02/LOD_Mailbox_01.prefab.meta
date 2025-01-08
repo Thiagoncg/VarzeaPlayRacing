@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f9b0cfd4e71c78e48a5e6bbebe6adeca
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Objects_02/LOD_Mailbox_01.prefab
+  uploadId: 706980

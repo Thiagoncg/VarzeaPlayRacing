@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 18c9bb02c2b683d4386a49bdd2b3d4d0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/UI/Basics/Gift/Big/Grp_Gift_BestScoreBigReminder.prefab
+  uploadId: 706980

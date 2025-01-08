@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4e7add51177ee0e4e894d6035699557d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Vegetation/LOD_Palm_02.prefab
+  uploadId: 706980

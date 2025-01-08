@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d2eb67688af4d45e796395211c74c1a2
+timeCreated: 1508254251
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/TS/Vehicle/VehiclePathFollow.cs
+  uploadId: 706980

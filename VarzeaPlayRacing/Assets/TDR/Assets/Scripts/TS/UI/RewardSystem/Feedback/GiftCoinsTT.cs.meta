@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d37559f7f6beb2d47810b22755a2cd35
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/TS/UI/RewardSystem/Feedback/GiftCoinsTT.cs
+  uploadId: 706980

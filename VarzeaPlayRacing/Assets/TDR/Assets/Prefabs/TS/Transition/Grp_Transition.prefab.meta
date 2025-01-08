@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 516dc75c3ea4f4c4c89fdfd80b54cc84
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/Transition/Grp_Transition.prefab
+  uploadId: 706980

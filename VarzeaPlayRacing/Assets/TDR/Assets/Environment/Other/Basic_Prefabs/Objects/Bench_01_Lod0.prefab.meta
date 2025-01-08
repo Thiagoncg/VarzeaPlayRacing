@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 06daeb756103e274db4751c6412e4fe7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Other/Basic_Prefabs/Objects/Bench_01_Lod0.prefab
+  uploadId: 706980

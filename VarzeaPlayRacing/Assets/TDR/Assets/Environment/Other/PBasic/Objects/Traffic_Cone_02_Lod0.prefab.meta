@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 92fb3790e7940c74bb70ba8d1ff27d0a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Other/PBasic/Objects/Traffic_Cone_02_Lod0.prefab
+  uploadId: 706980

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 328a6e9c6d20d014aa4233535aa9ee5f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/Procedural/InstantiatedObjects/Pole_MetalBarrier_01.prefab
+  uploadId: 706980

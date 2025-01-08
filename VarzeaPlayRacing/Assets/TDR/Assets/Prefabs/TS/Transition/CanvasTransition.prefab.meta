@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e7c4949f515e0491e9521f3d25e5aa65
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/Transition/CanvasTransition.prefab
+  uploadId: 706980

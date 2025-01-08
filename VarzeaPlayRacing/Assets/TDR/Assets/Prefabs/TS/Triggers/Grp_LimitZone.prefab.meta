@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b4f14d7aa842949db894ee37febb46fc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/Triggers/Grp_LimitZone.prefab
+  uploadId: 706980

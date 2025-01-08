@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1c3661a08165e0e4d95d5a1c71d54519
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Other/PBasic/Starting_Lights/SL_Lights_Grp_Lod0.prefab
+  uploadId: 706980

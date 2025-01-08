@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3456d56e81731744ea93fdefe31b2f10
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Other/PBasic_Procedurals/LOD_Grid_Pole_01.prefab
+  uploadId: 706980

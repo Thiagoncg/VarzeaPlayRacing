@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: aa2b723681aeaf446a1f0903c14a5fa6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Rock/LOD_Scree_S_02.prefab
+  uploadId: 706980

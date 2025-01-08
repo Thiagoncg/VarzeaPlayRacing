@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b54f296f8f3e99b4d8bdd0b2a9011929
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Boat/LOD_Boat_01.prefab
+  uploadId: 706980

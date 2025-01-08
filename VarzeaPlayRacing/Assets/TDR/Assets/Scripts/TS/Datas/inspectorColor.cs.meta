@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 07c17edcb216247f08de0f871421dbef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/TS/Datas/inspectorColor.cs
+  uploadId: 706980

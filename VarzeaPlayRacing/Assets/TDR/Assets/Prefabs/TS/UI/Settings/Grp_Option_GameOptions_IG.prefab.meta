@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cde2240343f6e42a1bcadbd4afb87cb6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/UI/Settings/Grp_Option_GameOptions_IG.prefab
+  uploadId: 706980

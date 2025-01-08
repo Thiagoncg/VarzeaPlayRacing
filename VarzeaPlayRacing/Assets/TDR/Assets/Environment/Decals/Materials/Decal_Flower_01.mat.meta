@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b7c8a04be5c19746b5bd80903ed351d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Decals/Materials/Decal_Flower_01.mat
+  uploadId: 706980

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eb3b9780073ec104e91bdeb74673ddef
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/Procedural/GeneratorWithPath/Wall_And_MetalBarrier_01.prefab
+  uploadId: 706980

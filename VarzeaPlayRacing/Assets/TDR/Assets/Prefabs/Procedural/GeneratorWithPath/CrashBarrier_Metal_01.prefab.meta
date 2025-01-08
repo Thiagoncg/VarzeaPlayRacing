@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cb4135a2ee0e9a846b81bde23e20ad6d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/Procedural/GeneratorWithPath/CrashBarrier_Metal_01.prefab
+  uploadId: 706980

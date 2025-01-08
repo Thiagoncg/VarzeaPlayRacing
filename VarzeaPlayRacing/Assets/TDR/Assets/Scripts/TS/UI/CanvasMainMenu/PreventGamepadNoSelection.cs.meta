@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0dc18542a63074b04b2b92c91f016d12
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/TS/UI/CanvasMainMenu/PreventGamepadNoSelection.cs
+  uploadId: 706980

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f961643422611466d9fc09347edea7c4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/UI/Basics/Text/TextSlideShowLock.prefab
+  uploadId: 706980

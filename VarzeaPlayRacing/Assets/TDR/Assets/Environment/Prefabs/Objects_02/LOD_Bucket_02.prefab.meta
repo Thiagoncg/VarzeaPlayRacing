@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: da42eabeaa6be184a9be1d3082b603de
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Objects_02/LOD_Bucket_02.prefab
+  uploadId: 706980

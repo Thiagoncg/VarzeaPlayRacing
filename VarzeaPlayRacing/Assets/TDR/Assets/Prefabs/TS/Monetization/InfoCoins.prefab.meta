@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5fb4f68ffb9b74cd2a0139b1f5df9b2e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/Monetization/InfoCoins.prefab
+  uploadId: 706980

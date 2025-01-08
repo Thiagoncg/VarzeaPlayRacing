@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2687ef57e6eaa4bd68381389c827f8f7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Animation/Transition/anim_Default/animDefault.anim
+  uploadId: 706980

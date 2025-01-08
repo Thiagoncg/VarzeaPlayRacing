@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 34b257991ea2dc84a80cdcc8bede9a65
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/RC/Car/VehicleLights.cs
+  uploadId: 706980

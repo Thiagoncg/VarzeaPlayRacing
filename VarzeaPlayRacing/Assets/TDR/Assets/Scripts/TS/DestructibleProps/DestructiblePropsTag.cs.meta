@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 80b0a1a979dd94045b7ece61741d3883
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/TS/DestructibleProps/DestructiblePropsTag.cs
+  uploadId: 706980

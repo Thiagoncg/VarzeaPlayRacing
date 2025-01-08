@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2fa3710a8451a45288cab822b4dba345
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Audio/AudioMixer/TS_AudioMixer.mixer
+  uploadId: 706980

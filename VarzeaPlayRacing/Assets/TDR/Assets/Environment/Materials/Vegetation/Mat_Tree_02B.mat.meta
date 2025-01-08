@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e83aa9d5f074d64f9305d5d3166fc22
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Materials/Vegetation/Mat_Tree_02B.mat
+  uploadId: 706980

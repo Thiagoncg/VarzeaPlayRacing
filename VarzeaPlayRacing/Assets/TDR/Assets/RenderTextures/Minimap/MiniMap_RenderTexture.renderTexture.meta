@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1fd3646341cd14aca9ab65e799277434
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/RenderTextures/Minimap/MiniMap_RenderTexture.renderTexture
+  uploadId: 706980

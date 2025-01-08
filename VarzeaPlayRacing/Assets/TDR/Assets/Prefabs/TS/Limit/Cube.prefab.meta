@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5cdde6d9a93044c078d9e1076cf1a858
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/Limit/Cube.prefab
+  uploadId: 706980

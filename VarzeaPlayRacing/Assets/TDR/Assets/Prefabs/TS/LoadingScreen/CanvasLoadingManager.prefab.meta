@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ef777a41d1eb741b9aa15f68682bb7ec
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/LoadingScreen/CanvasLoadingManager.prefab
+  uploadId: 706980

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 697b0e6656b834e6ba278ad4bf03185e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/UI/Garage/Param_01_Speed.prefab
+  uploadId: 706980

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ecd8d01f6d54244af8fb58d715fdb348
+timeCreated: 1512717706
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/TS/Global/Texture2DEditor/EditorManipulate2DTexture_Pc.cs
+  uploadId: 706980

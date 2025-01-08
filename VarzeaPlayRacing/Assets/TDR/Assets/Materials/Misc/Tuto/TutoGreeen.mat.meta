@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c1d0413ce16bbfa4fa25bd08f18cdefc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Materials/Misc/Tuto/TutoGreeen.mat
+  uploadId: 706980

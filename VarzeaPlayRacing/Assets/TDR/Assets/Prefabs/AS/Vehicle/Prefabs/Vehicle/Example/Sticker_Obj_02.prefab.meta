@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8adfc7b211ca5d64fb655f3b069b3fef
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/AS/Vehicle/Prefabs/Vehicle/Example/Sticker_Obj_02.prefab
+  uploadId: 706980

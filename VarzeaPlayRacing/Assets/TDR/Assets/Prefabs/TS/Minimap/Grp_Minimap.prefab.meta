@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 213e77a9e08ce4438aa3ff24d2e8363c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/Minimap/Grp_Minimap.prefab
+  uploadId: 706980

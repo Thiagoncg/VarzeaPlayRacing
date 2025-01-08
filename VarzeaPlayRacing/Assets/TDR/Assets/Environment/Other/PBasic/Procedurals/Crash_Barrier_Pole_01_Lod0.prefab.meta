@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c55abfed1bc64a94e8d83343555d4376
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Other/PBasic/Procedurals/Crash_Barrier_Pole_01_Lod0.prefab
+  uploadId: 706980

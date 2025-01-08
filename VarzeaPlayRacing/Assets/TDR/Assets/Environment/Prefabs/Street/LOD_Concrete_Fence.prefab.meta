@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b61ca3f5256e33c4886ef22b46c0be26
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Street/LOD_Concrete_Fence.prefab
+  uploadId: 706980

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c790a0c8c36c79448baded7f4de9f6cc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Materials/Vehicle/Sport/Car_TDR_01_Down.mat
+  uploadId: 706980

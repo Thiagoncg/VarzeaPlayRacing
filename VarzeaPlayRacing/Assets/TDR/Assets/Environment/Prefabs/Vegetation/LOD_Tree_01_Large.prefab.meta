@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6c683604bc82c724694e346136a2859d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Vegetation/LOD_Tree_01_Large.prefab
+  uploadId: 706980

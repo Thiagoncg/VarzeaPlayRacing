@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 924b3e69484db4cf596a8118f4450a2c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/UI/Leaderboard/Grp_Leaderboard.prefab
+  uploadId: 706980

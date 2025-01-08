@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3df0c3055c9fbae4b940ee19d19c885e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Other/Basic_Prefabs/Objects/Table_02_Lod1.prefab
+  uploadId: 706980

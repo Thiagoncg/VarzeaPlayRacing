@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 50ff6c75a6652444cb3936a8a6e65779
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/AS/Vehicle/Prefabs/Other/v/Prefabs/Other/Car_Front_Collider_02_Cut.prefab
+  uploadId: 706980

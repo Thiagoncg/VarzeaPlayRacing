@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6a5a3126568a053439bc5499f8d21c54
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/AS/Vehicle/Prefabs/Other/v/Other/Prefabs_Basic/Driver/Driver_Hand.prefab
+  uploadId: 706980

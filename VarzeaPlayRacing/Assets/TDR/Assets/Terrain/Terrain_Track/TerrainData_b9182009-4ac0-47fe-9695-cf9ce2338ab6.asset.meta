@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a046edaffe0bed8418ec8f68cf786bd0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Terrain/Terrain_Track/TerrainData_b9182009-4ac0-47fe-9695-cf9ce2338ab6.asset
+  uploadId: 706980

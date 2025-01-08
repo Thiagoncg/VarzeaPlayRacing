@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81ff239e71b3aa842903ed622bfa85a8
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Water/Shader/Refract.hlsl
+  uploadId: 706980

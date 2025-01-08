@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 84db181f1aaeff149b9722d51101a0df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Materials/Vegetation/Mat_Leafs_01.mat
+  uploadId: 706980

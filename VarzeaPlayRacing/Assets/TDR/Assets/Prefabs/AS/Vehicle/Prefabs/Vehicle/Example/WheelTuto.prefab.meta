@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b1492f34d301b5f4ab046c7f4dfa1428
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/AS/Vehicle/Prefabs/Vehicle/Example/WheelTuto.prefab
+  uploadId: 706980

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 07b2c453f2305d2448bc9079e27b0a5a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/TsToolsRC/Setup/Prefabs/TerrainStarter.prefab
+  uploadId: 706980

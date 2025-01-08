@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cfcdfa42e54817e45b076cde78a54914
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Materials/Car/CarPaintingRC_Rally.mat
+  uploadId: 706980

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d7f47ad83f58bce4aa8000163735101d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Houses/LOD_Wall_01B.prefab
+  uploadId: 706980

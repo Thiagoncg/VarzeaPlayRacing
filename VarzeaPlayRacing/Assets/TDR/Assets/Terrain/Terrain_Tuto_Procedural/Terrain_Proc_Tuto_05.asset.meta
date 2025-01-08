@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 89d61663402804a48a23c22e282e1b5c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Terrain/Terrain_Tuto_Procedural/Terrain_Proc_Tuto_05.asset
+  uploadId: 706980

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 1afbb7264937a1c47b2924e9d74f7372
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/TDR/MultiCam/CamFollowPathEditor.cs
+  uploadId: 706980

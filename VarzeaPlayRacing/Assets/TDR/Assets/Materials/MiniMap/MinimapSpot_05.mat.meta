@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff3c09b57b7f94a1aaca4f4d0d5bfab3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Materials/MiniMap/MinimapSpot_05.mat
+  uploadId: 706980

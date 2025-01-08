@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 42da4f5bd4e9ba2458ffddc31075013b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/AS/Vehicle/Prefabs/Other/v/Other/Prefabs_Basic/PickUp/PickUp_Lod0.prefab
+  uploadId: 706980

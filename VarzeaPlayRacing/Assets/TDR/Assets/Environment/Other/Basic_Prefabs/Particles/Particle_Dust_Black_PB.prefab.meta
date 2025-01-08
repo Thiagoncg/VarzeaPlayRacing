@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 53a682f509dc65a44a5763da324746af
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Other/Basic_Prefabs/Particles/Particle_Dust_Black_PB.prefab
+  uploadId: 706980

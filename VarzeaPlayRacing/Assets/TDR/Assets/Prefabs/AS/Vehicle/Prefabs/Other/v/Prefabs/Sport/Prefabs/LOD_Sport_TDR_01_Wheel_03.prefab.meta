@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2bebf94ce27b2be4997856347cc5121b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/AS/Vehicle/Prefabs/Other/v/Prefabs/Sport/Prefabs/LOD_Sport_TDR_01_Wheel_03.prefab
+  uploadId: 706980

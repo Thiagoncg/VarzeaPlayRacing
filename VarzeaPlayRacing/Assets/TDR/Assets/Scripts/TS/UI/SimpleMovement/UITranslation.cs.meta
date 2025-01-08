@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b68dbc92ff53442aba32d8a1e6654e06
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/TS/UI/SimpleMovement/UITranslation.cs
+  uploadId: 706980

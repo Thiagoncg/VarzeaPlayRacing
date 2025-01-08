@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 473da6a92a2ce7c498d374c1e193352d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Materials/Street/Car/Mat_Vehicle_Glass_01.mat
+  uploadId: 706980

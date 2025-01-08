@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fcf009ed47beaae48b8b01ae9aaa765e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/RC/Car/Audio/AudioImpactSfx.cs
+  uploadId: 706980

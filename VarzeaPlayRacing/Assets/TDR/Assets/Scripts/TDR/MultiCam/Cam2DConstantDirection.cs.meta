@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 249df02acad284d449245309ba27837f
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/TDR/MultiCam/Cam2DConstantDirection.cs
+  uploadId: 706980

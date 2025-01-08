@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0df0094540d07b2469dfa45f9d7598b0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Commercials_Flags/LOD_PodiumStrips.prefab
+  uploadId: 706980

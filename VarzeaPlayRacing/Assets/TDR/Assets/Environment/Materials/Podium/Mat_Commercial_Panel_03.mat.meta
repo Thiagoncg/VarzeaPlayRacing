@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f45b2ead161efe40bb94ae35b7e49e4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Materials/Podium/Mat_Commercial_Panel_03.mat
+  uploadId: 706980

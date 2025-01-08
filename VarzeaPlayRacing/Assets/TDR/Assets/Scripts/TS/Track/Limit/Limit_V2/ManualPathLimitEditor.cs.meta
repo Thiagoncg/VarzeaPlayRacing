@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 8d482d618dea03c47804b9b8cdafbdd9
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/TS/Track/Limit/Limit_V2/ManualPathLimitEditor.cs
+  uploadId: 706980

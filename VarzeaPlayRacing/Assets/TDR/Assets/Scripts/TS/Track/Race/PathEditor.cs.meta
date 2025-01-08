@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 74fd98adfc7fe4a1e9eb0475cd70f16a
+timeCreated: 1497872763
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/TS/Track/Race/PathEditor.cs
+  uploadId: 706980

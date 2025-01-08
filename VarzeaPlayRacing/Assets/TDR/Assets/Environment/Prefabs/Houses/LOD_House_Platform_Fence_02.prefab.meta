@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c86b31d603943774ea9853f9b59f4556
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Houses/LOD_House_Platform_Fence_02.prefab
+  uploadId: 706980

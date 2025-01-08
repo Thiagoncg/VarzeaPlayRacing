@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e748dff3d4a52be4b8ec0ce1335e4db0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Lights_Settings/Settings_Track.lighting
+  uploadId: 706980

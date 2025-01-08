@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d2ed16e01b84d5442870e1ae2243b14a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Materials/Podium/Mat_Podium_Metal_Grid_02.mat
+  uploadId: 706980

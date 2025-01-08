@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 68d80dec60b44d045becb1f651a15605
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Pier/LOD_Podium_Wood_02.prefab
+  uploadId: 706980

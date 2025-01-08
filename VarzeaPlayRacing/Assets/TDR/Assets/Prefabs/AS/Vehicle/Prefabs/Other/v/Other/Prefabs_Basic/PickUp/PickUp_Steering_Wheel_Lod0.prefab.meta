@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f7d3a0dc25409074fa451b1ee967c7c0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/AS/Vehicle/Prefabs/Other/v/Other/Prefabs_Basic/PickUp/PickUp_Steering_Wheel_Lod0.prefab
+  uploadId: 706980

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6b92f9caf600b4aeb9b8a7801661af74
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/UI/Basics/Text/01_Text_Base.prefab
+  uploadId: 706980

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 983028b7fd115f14f9e50ec0d7260854
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Materials/Vehicle/Skidmarks/SkidMark_Ice.mat
+  uploadId: 706980

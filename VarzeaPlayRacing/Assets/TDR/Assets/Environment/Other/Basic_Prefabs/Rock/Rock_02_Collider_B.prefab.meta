@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e59ea7a4160cf0741bc1b0586e029b1b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Other/Basic_Prefabs/Rock/Rock_02_Collider_B.prefab
+  uploadId: 706980

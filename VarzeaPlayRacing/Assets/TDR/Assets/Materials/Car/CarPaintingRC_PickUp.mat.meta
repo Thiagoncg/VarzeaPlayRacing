@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c13e8fdcd501a9a40a07687bc44bd249
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Materials/Car/CarPaintingRC_PickUp.mat
+  uploadId: 706980

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ed3e17ec354d943a3b78fcb339ab34c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/TS/UI/SlideShow/SlideShowMedal.cs
+  uploadId: 706980

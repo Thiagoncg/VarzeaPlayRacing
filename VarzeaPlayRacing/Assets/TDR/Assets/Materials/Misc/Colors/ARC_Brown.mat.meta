@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4b1aeb3ad5fed409ea5d7ce03bacb279
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Materials/Misc/Colors/ARC_Brown.mat
+  uploadId: 706980

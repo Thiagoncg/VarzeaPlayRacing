@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d971906165bfd004c9954d136b41354b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/PauseManager.prefab
+  uploadId: 706980

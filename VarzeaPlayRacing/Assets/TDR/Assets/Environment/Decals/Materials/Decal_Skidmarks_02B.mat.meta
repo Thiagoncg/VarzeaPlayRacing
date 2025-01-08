@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a92f242192d7374a9fe4dd22808842e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Decals/Materials/Decal_Skidmarks_02B.mat
+  uploadId: 706980

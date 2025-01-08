@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d93440d90348bf4f8f7ed9cc8666fa5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Materials/Houses/Mat_House_Wood_Wall_03.mat
+  uploadId: 706980

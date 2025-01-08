@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0791b06ea1c99a249b64c1ee21a197cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/TsToolsRC/Optimize/Scripts/Grid/CheckVehicle/IOptiGridCondition.cs
+  uploadId: 706980

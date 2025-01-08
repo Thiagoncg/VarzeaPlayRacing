@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d62fff5c45abe61418816d2d2a7dafce
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Materials/Vehicle/PickUp/Mat_PickUp_Glass.mat
+  uploadId: 706980

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ffefd73969078f43aa4e233f799b79d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Vegetation/LOD_Bush_04.prefab
+  uploadId: 706980

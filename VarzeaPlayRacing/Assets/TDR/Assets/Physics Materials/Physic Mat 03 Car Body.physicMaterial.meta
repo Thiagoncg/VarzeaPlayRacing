@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2600ccb0436b23d40b1696c5f825d384
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Physics Materials/Physic Mat 03 Car Body.physicMaterial
+  uploadId: 706980

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 27507be5d593f814295c6286ee2407dd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Rock/White_Rock/LOD_White_Rock_S_06.prefab
+  uploadId: 706980

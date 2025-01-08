@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 24a71a6877604b84e821c50b3b6599eb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Pier/LOD_Pier_Platform_01.prefab
+  uploadId: 706980

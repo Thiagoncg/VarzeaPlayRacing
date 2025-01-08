@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27b9f5781ed65564d95f3d92f089e072
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/TsToolsRC/Procedural/Data/RData_ArcadeTDR.asset
+  uploadId: 706980

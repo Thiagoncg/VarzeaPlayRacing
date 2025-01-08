@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 39c7fc8f3cfe5e34dbf923ebc9d6fefc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/Track/Grp_StartLights.prefab
+  uploadId: 706980

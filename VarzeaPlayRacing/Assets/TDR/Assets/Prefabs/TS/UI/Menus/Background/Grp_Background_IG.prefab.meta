@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8107002d759ab4efaaaa40f04007bf72
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/UI/Menus/Background/Grp_Background_IG.prefab
+  uploadId: 706980

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: df4a6b1e3f8dbca4abcd07af0cf4ffcc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/TS/Audio/AudioSourceFollowPath.cs
+  uploadId: 706980

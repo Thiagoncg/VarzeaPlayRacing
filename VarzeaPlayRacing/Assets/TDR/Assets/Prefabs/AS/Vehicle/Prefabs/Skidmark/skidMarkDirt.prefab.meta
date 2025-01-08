@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b24c0861ab3607545a7482316af0c130
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/AS/Vehicle/Prefabs/Skidmark/skidMarkDirt.prefab
+  uploadId: 706980

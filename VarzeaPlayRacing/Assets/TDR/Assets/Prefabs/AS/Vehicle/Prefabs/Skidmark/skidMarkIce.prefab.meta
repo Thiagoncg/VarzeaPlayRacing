@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6036854da72b23247b9423a20af65b9e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/AS/Vehicle/Prefabs/Skidmark/skidMarkIce.prefab
+  uploadId: 706980

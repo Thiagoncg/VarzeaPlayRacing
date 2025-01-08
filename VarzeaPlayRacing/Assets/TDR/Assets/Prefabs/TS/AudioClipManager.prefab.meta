@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a4ca9a1b2128d43eca5146616a109f75
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/AudioClipManager.prefab
+  uploadId: 706980

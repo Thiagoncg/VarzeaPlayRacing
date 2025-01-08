@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4c3ea4e79b09cb247904d02348aad975
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Shaders/Commercials_Flags/Flag_PodiumStrip.shadergraph
+  uploadId: 706980

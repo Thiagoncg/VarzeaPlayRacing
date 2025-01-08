@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 09f1075c36bbe4dc9886b3e0cd3af3c1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/UI/Inputs/Grp_ButtonSlider.prefab
+  uploadId: 706980

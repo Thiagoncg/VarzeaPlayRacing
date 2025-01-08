@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 48b4dc4be4e5ff1439f60e4c4b8d9956
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Other/Basic_Prefabs/Houses/House_Platform_01_Lod0.prefab
+  uploadId: 706980

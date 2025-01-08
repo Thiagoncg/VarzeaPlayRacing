@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: beeca438ced6f1742b7ba320e2d8ac64
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Starting_Lights/Starting_Lights.prefab
+  uploadId: 706980

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 40052d99e58928e43a1dda092b8c7b7b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Audio/SpeakerCommentary.prefab
+  uploadId: 706980

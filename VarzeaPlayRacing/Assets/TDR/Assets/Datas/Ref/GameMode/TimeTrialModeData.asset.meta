@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c85510e57717a4ada8c4d4570a50bb75
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Datas/Ref/GameMode/TimeTrialModeData.asset
+  uploadId: 706980

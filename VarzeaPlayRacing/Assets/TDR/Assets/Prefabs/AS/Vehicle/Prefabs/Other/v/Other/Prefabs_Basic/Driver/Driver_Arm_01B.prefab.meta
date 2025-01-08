@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b072f47191062e544a48a71e0f6fab5d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/AS/Vehicle/Prefabs/Other/v/Other/Prefabs_Basic/Driver/Driver_Arm_01B.prefab
+  uploadId: 706980

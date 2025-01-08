@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e08cd62b2c7f493382cb325d1101012
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/UI/Basics/Button/01_Button_Base.prefab
+  uploadId: 706980

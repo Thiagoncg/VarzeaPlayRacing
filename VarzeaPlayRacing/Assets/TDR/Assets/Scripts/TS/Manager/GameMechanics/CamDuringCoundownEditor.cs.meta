@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 94bf67c84c8a9402693448e1d7a5b173
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/TS/Manager/GameMechanics/CamDuringCoundownEditor.cs
+  uploadId: 706980

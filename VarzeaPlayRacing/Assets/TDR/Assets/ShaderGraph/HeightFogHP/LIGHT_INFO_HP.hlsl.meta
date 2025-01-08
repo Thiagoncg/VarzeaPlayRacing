@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba7fea0887364ae44ab12487d33f2b87
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/ShaderGraph/HeightFogHP/LIGHT_INFO_HP.hlsl
+  uploadId: 706980

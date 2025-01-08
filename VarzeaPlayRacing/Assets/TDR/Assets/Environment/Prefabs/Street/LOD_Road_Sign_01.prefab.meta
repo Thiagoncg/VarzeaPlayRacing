@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a3536b33f57db874ea015076d15bc070
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Street/LOD_Road_Sign_01.prefab
+  uploadId: 706980

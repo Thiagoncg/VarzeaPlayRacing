@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 387b6f3d03f2a1e4b86eae0c1a0ea11f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/AS/Vehicle/Prefabs/Other/ColliderBody/Car_Triangle_Collider_03.prefab
+  uploadId: 706980

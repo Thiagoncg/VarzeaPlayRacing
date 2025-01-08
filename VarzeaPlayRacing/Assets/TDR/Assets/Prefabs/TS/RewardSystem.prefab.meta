@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1c14211f3d0744346a72a9c7ed55d372
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/RewardSystem.prefab
+  uploadId: 706980

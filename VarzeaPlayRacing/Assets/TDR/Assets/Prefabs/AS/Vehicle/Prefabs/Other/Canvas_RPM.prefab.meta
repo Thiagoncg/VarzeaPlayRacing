@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c6902e77b524513499a3cde38351390a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/AS/Vehicle/Prefabs/Other/Canvas_RPM.prefab
+  uploadId: 706980

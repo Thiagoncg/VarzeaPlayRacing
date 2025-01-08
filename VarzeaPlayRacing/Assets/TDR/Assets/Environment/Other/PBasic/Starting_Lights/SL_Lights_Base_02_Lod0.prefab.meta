@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b74177085c19b4d49810a5446e6b5a47
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Other/PBasic/Starting_Lights/SL_Lights_Base_02_Lod0.prefab
+  uploadId: 706980

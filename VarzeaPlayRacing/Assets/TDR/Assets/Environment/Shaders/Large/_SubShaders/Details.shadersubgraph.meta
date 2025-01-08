@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e02cf493d5e9c3c4fa870f59b5a83975
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 60072b568d64c40a485e0fc55012dc9f, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Shaders/Large/_SubShaders/Details.shadersubgraph
+  uploadId: 706980

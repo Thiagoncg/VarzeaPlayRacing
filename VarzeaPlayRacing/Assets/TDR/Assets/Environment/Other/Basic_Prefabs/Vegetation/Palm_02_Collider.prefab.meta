@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8cb6dfab6c0eeae47ba5799be19f75ab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Other/Basic_Prefabs/Vegetation/Palm_02_Collider.prefab
+  uploadId: 706980

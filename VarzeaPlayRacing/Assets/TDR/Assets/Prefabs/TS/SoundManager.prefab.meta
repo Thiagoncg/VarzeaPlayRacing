@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 48fb7b1208be24fdd86d66ab0e34f6bf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/SoundManager.prefab
+  uploadId: 706980

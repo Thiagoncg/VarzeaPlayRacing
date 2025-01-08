@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f19e74a3729ceb045afa7c180e6f6b05
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/Track/Grp_StartLine.prefab
+  uploadId: 706980

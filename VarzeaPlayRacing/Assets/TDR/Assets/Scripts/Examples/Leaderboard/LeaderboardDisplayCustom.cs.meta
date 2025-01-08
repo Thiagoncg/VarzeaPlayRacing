@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 29b5a2e01909e481dbd341c94db830a6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/Examples/Leaderboard/LeaderboardDisplayCustom.cs
+  uploadId: 706980

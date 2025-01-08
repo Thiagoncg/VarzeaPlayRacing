@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 56eeeb5a2bf0fbf44847b10d3288e4b1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Effects/Post_FX/Post_FX_P1.asset
+  uploadId: 706980

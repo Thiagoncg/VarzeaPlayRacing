@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a68cd22bbe7334b81954f0a8ea191e8a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/TS/UI/CanvasMainMenu/CanvasManagerEditor.cs
+  uploadId: 706980

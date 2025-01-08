@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 55c5d36e00eaa4fddaba6a372dd4879b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/UI/Leaderboard/Grp_Score_4Txt.prefab
+  uploadId: 706980

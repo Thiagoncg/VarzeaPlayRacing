@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1f75b0299d117364abc18498ef362357
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/AS/Vehicle/Prefabs/Other/v/Prefabs/LOD_Rally_01.prefab
+  uploadId: 706980

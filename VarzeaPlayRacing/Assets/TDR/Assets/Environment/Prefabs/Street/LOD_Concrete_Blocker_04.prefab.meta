@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2680b7f80dda0a74bba4c7dd093f73b4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Street/LOD_Concrete_Blocker_04.prefab
+  uploadId: 706980

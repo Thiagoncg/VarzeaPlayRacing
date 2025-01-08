@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b1f644d4ea2d043e49b90cdb8b4ef260
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/TS/Global/ToolsDeletePlayerPrefs.cs
+  uploadId: 706980

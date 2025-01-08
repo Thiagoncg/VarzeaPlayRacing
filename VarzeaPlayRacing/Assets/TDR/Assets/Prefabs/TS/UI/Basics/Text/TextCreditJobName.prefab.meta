@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e35c4d64c391456cbf071613c35dd51
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/UI/Basics/Text/TextCreditJobName.prefab
+  uploadId: 706980

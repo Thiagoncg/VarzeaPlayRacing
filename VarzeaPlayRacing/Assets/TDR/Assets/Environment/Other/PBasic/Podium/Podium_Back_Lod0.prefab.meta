@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0b06e71220dc46446bff91bc310bd9ea
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Other/PBasic/Podium/Podium_Back_Lod0.prefab
+  uploadId: 706980

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d3f8a6fbf0394d0d9fa5d8ae2aaba1d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/UI/Basics/Gift/Grp_Gift_Track.prefab
+  uploadId: 706980

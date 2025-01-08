@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ef3f74640ab806b459445f008fd59900
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Other/PBasic/Procedurals/Procedural_Fence_01B.prefab
+  uploadId: 706980

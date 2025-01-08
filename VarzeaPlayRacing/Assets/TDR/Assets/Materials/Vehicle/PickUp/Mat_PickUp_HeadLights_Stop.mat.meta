@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b81790faf07c2b349a6286e1e18da3c6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Materials/Vehicle/PickUp/Mat_PickUp_HeadLights_Stop.mat
+  uploadId: 706980

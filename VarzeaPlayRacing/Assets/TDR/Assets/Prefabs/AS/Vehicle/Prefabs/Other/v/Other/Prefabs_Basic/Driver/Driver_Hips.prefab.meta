@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e1e958056a2db1d42b22c4780b86493b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/AS/Vehicle/Prefabs/Other/v/Other/Prefabs_Basic/Driver/Driver_Hips.prefab
+  uploadId: 706980

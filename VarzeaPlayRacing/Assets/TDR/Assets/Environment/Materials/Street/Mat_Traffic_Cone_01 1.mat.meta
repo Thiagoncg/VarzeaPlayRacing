@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 51399e856fcb16e49bf173c424a013f9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Materials/Street/Mat_Traffic_Cone_01 1.mat
+  uploadId: 706980

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 489722352ee786049b1e45f43017bd29
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Particles/Particle_Fish.prefab
+  uploadId: 706980

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 51436254c41bcb5418af8dc4401e5b44
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scenes/Tutorials/Tuto_01/Tuto_01b_ZoneLimit.unity
+  uploadId: 706980

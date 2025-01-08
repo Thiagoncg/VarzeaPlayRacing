@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d9eced38735211949874eea9b3630cd0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/AS/Vehicle/Prefabs/Other/v/Other/Prefabs_Basic/PickUp/PickUp_Glass.prefab
+  uploadId: 706980

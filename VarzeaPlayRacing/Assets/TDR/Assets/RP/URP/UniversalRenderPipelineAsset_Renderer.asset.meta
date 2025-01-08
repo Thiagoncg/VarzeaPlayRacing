@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 53f41b97002f757439d3003057f61c5e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/RP/URP/UniversalRenderPipelineAsset_Renderer.asset
+  uploadId: 706980

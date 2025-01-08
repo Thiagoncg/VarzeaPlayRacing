@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bc36616dccc648d40b1f989480fe9354
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/TsToolsRC/Procedural/Prefabs/Road/Road Large.prefab
+  uploadId: 706980

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 077c5d7b2e74e42b7b564d731dd448fe
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/Triggers/LimitZone.prefab
+  uploadId: 706980

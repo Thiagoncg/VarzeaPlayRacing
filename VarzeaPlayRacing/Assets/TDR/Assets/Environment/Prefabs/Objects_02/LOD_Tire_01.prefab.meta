@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5e03c5f9e022b114e9a696fe86d854a3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Objects_02/LOD_Tire_01.prefab
+  uploadId: 706980

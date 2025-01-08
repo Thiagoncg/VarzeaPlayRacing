@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8d0ec070d023e44c1b9df26822c05bac
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/InfoGameMode.prefab
+  uploadId: 706980

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 01834ea673810bf47bdebbfc7a6bb3f7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Rock/LOD_Rock_03.prefab
+  uploadId: 706980

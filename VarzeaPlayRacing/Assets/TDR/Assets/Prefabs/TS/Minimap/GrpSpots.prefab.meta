@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 48138be91fb9c644a914cdc55f89f60d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/Minimap/GrpSpots.prefab
+  uploadId: 706980

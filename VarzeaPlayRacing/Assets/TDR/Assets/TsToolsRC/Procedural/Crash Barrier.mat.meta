@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aec0d6f28a0a35842a53cd244a6fb9ec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/TsToolsRC/Procedural/Crash Barrier.mat
+  uploadId: 706980

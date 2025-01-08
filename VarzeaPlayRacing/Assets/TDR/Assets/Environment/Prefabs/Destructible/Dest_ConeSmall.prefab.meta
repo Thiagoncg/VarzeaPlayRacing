@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e4735994df58fd048bb59ddffe59ecb2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Destructible/Dest_ConeSmall.prefab
+  uploadId: 706980

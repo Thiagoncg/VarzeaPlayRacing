@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d69e5f0e05f7547cd9ed810f60dd1fd2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/CanvasRefBorder.prefab
+  uploadId: 706980

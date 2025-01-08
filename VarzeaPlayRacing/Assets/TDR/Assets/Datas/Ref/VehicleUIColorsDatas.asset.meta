@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a6997b92d19d41a99512093eab2346f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Datas/Ref/VehicleUIColorsDatas.asset
+  uploadId: 706980

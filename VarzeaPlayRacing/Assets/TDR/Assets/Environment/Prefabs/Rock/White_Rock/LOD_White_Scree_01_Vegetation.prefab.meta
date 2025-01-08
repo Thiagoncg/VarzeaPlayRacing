@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 516f5f69caa065340800626ff3abdc3d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Prefabs/Rock/White_Rock/LOD_White_Scree_01_Vegetation.prefab
+  uploadId: 706980

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 61a5dd9b03c4bc3479f65a58f1adcd4c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Scripts/RC/Car/UI/DisplayGearRPMAndSpeed.cs
+  uploadId: 706980

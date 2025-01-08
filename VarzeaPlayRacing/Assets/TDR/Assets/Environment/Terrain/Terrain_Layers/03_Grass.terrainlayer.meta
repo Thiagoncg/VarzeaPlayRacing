@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d89cf91b8b0b9a04f858bec6d210376c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Terrain/Terrain_Layers/03_Grass.terrainlayer
+  uploadId: 706980

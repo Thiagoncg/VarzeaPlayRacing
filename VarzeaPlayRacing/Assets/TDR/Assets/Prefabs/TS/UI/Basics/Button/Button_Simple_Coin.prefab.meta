@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b3aefa19f81a4421ea6df0b1759286c6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Prefabs/TS/UI/Basics/Button/Button_Simple_Coin.prefab
+  uploadId: 706980

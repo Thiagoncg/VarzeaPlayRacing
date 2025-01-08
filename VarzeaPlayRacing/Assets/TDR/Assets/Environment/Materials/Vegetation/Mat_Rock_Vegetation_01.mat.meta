@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 863567142603f404c9d21f1c2feff066
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300624
+  packageName: Top Down Car Racing Engine
+  packageVersion: 1.0
+  assetPath: Assets/TDR/Assets/Environment/Materials/Vegetation/Mat_Rock_Vegetation_01.mat
+  uploadId: 706980
